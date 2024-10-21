@@ -21735,3 +21735,19 @@ body.white-version {
 }
 
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+
+.dow-btn{
+  /* background-color:rgb(110, 59, 59); */
+  margin-top: 30px;
+border-radius: 6px;
+width: 51%;
+cursor: pointer;
+            transition: transform 0.3s ease;
+}
+.dow-btn:hover{
+  border-color: red;
+  color: white;
+  transform: scale(1.1); 
+}
