@@ -21749,5 +21749,5 @@ cursor: pointer;
 .dow-btn:hover{
   border-color: red;
   color: white;
-  transform: scale(1.1); 
+  transform: scale(1.05); 
 }
